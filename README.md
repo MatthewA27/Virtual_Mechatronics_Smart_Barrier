@@ -14,9 +14,9 @@ https://github.com/user-attachments/assets/4213ebc2-b900-433c-b6c0-2cfd9ebc2383
 
 ## 🛠️ How It Works
 
-The system continuously monitors the distance of objects in front of it using a Parallax PING))) ultrasonic sensor. 
-* When an object approaches within a range of **100cm to 250cm**, the Arduino sends a signal to the servo motor to rotate 90 degrees (opening the barrier).
-* If no object is detected within that specific range, the servo returns to 0 degrees (closing the barrier).
+The system monitors the distance of objects in front of it using a ultrasonic sensor. 
+* When an object is within a range of **100cm to 250cm**, the Arduino sends a signal to the servo motor to rotate 90 degrees.
+* If no object is detected within that specific range, the servo returns to 0 degrees.
 
 ### Components Used (Simulated):
 * **Microcontroller:** Arduino Uno R3
