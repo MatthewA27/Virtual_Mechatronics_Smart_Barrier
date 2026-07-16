@@ -6,9 +6,8 @@ An automated gate system built using an Arduino microcontroller, an ultrasonic d
 
 ## 📺 Project Simulation
 
-![Watch the simulation](Example.mp4)
+https://github.com/user-attachments/assets/4213ebc2-b900-433c-b6c0-2cfd9ebc2383
 
-*(Include your circuit screenshot right below if you'd like!)*
 ![Circuit Diagram](Circuit.png)
 
 ---
