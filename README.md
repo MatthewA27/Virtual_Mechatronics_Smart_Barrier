@@ -1,2 +1,3 @@
-# Virtual_Mechatronics_Smart_Barier
-Servo Motor Controlled by Ultrasonic Scanner
+## Project Simulation
+
+<video src="Example.mp4" width="600" controls></video>
