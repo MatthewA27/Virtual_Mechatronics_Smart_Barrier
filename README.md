@@ -1,3 +1,3 @@
 ## Project Simulation
 
-<video src="Example.mp4" width="600" controls></video>
+![Watch the simulation](Example.mp4)
